@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bhuripan Padcharaditthakul
 ===================================================================================================================================================
 
-UX/UI Designer (Entry level)
+Frontend (Entry level)
 ----------------------------
 
 I am studying and finding the experience in UX/UI Designer.
